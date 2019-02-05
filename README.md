@@ -1,8 +1,8 @@
-# My Arduino Projects 000
+# Rotary Clock Quiet
+
+<b> https://youtu.be/sK5B9zZ70d4</b>
 
 <b>Arduino Nano + DS3231 + 1602 LCD + rotary encoder.</b>
-
-<b>rotary_clock_quiet </b> https://youtu.be/sK5B9zZ70d4<br>
 
 Overall view
 <img src="https://github.com/faowff034faerf3490ur/rotary_clock_quiet/blob/master/IMG/20190111132406.jpg" title="photo 1"><br>Wiring<br>
