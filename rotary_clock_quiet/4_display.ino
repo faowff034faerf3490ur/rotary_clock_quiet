@@ -9,9 +9,9 @@
 //                         00, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 // leap year
 
 // days, weeks and months of the year
-static char   *moy[] = { months_of_the_year };
-static char   *dow[] = { days_of_the_week   };
-static uint8_t dom[] = { days_of_the_month  };
+static const char   *moy[] = { months_of_the_year };
+static const char   *dow[] = { days_of_the_week   };
+static const uint8_t dom[] = { days_of_the_month  };
 
 void display_clock ( void )
 {
